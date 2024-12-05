@@ -6,6 +6,7 @@ public class d {
 		// TODO Auto-generated method stub
 
 		System.out.println("Clase d");
+		System.out.println("Aldaketa berria");
 	}
 
 }
